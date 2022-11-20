@@ -9,3 +9,4 @@
 - `routers` 路由,具体逻辑
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
+- `uploads.zip` 博客封面图片，请注意自行解压在public文件夹下
